@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/m_zahis" target="blank"><img src="https://img.shields.io/twitter/follow/m_zahis?logo=twitter&style=for-the-badge" alt="m_zahis" /></a> </p>
 
-- 🔭 I’m currently working on [Ankota LLC](https://ankota.net/api/index.html)  [Dogwood](https://dogwoodsuite.com/)
+- 🔭 I’m currently working as a Data Engineer at [Addo AI](https://addo.ai/)
 
 - 🌱 I’m currently learning **Django, Flask, Pyramid, NextJS, Data Engineering, AnythingNew**
 
 - 👯 I’m looking to collaborate on **Any Code**
 
-- 🤝 I’m looking for help with **Python Development, Remote Job**
+- 🤝 I’m looking for help with **Python Development, Remote Job, Data Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zahid07](https://github.com/Zahid07)
 
